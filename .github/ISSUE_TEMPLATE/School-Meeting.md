@@ -1,5 +1,13 @@
+---
+name: Catalyst-School-meeting
+about: Create records for Catalyst-School_core-meetings
+title: Catalyst School meeting - [Date]
+labels: After Town Hall, Weekly Tasks
+assignees: ''
 
-## Core Swarm Meeting - Date, Time
+---
+
+## Catalyst School meeting - Date, Time
 
 - Last Meeting - link to last meeting Issue
 
@@ -12,17 +20,21 @@ Checked Names confirmed as Attendees.
 
 - [ ] Seomon @Seomon4u 
 - [ ] Lucio @coire1 
-- [ ] Dominik 
+- [ ] Dominik @DominikTilman
 - [ ] Kerstin
 - [ ] George @georgelovegrove 
-- [ ] Raz
-- [ ] Tevo 
-- [ ] Felix 
+- [ ] Raz @raz33
+- [ ] Tevo @whitevo
+- [ ] Felix @FelixfromSwarm
 
 ### Documentation
 
 - [ ] @stephen-rowan
 
 ## Agenda Items
+
+- [ ] 
+
+## Actions
 
 - [ ] 
